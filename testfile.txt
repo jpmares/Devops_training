@@ -2,3 +2,8 @@ TEST FILE ONLY
 
 
 edited the file.
+
+Editing for GIT STASH
+
+
+git integration
